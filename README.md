@@ -75,12 +75,23 @@ src/
 
 ## 📸 Screenshots
 
-![Home Page Before Logging In](public/home.png)
-![Login Page](public/login.png)
-![Signup Page](public/signup.png)
-![Add-Post Page](public/add-post.png)
-![Edit-Post Page](public/edit-post.png)
-![User-Posts Page](public/user-posts.png)
+1. **Home Page:**
+   ![Home Page](public/home.png)
+
+2. **Login Page:**
+   ![Login Page](public/login.png)
+
+3. **Signup Page:**
+   ![Signup Page](public/signup.png)
+
+4. **Add-Post Page:**
+   ![Add-Post Page](public/add-post.png)
+
+5. **Edit-Post Page:**
+   ![Edit-Post Page](public/edit-post.png)
+
+6. **User-Posts Page:**
+   ![User-Posts Page](public/user-posts.png)
 
 
 ---
